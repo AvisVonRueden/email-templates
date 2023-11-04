@@ -1,4 +1,4 @@
-! Responsive HTML email templates
+* Responsive HTML email templates
 Responsive HTML email templates with Sketch app resources and [a social media icons set](https://github.com/konsav/social-icons/). Compatible with all major email clients, including Outlook 2013 for Windows and Gmail for mobile (responsiveness without media queries). Compatibility checklist attached. Live preview available on CodePen.
 
  # General template
@@ -28,7 +28,7 @@ Well commented and readable code. Editable values are indented and submitted to 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/code.png" alt="Code preview" width="640">
 
 ## Сompatibility check (June'15)
-! Apple Mail (Mac OS, iOS iPhone/iPad)
+* Apple Mail (Mac OS, iOS iPhone/iPad)
   Microsoft Outlook (2013 Win, 2011 Mac, iOS, Android, Outlook.com)
 # Google Gmail (Web, Android, iOS)
 * Google Inbox (Android, iOS)
@@ -36,4 +36,4 @@ Well commented and readable code. Editable values are indented and submitted to 
 * Mailbox (Android, iOS)
 * Yahoo Mail (Web, Android, iOS
 * Yandex Mail (Web, Android, iOS)
-* Mail.Ru (Web, Android, iOS) 
+* Mail.Ru (Web, Android, iOS)  
